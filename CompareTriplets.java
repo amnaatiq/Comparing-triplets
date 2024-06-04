@@ -1,8 +1,6 @@
 package com.mycompany.comparetriplets;
-
 import java.util.*;
 import java.util.Scanner;
-
 
 public class CompareTriplets 
 {
